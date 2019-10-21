@@ -7,5 +7,5 @@ if "-" in theString:
         if theString[i] == '-':
             break
         i+=1
-        theString = theString[:i]+'\_'+theString[i+2]
+theString = theString[:i]+'\_'+theString[i+1]
 print(theString)
