@@ -1,3 +1,3 @@
 liste=["Je","suis","trop","fort"]
-for i in (liste) :
-    print (i)
+for j in (liste) :
+    print (j)
